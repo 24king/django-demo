@@ -1,1 +1,1 @@
-print("loading __init__.py in mysite")
+print("loading mysite.__init__.py")

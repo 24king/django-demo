@@ -1,0 +1,1 @@
+print("loading __init__.py in mysite")
